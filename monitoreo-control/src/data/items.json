@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "OS 1",
+        "state": 0,
+        "etapa": "Armado"
+    },
+    {
+        "id": 2,
+        "name": "OS 2",
+        "state": 10,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 3,
+        "name": "OS 3",
+        "state": 20,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 4,
+        "name": "OS 4",
+        "state":30,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 5,
+        "name": "OS 5",
+        "state": 40,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 6,
+        "name": "OS 6",
+        "state": 50,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 7,
+        "name": "OS 7",
+        "state": 0,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 8,
+        "name": "OS 8",
+        "state": 0,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 9,
+        "name": "OS 9",
+        "state": 0,
+        "etapa": "Desarmado"
+    },
+    {
+        "id": 10,
+        "name": "OS 10",
+        "state": 0,
+        "etapa": "Desarmado"
+    }
+
+]

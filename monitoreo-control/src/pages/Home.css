@@ -1,0 +1,13 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .to-do, .in-process, .done {
+    color: white;
+    background-color: #001D7B;
+    width: 90vw;
+    margin: 10;
+    padding: 10px;
+  }
+  
